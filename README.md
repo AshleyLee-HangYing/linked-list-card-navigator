@@ -67,4 +67,13 @@ The first inspection displays `2 of Hearts`. After moving forward, the second in
 
 ## Technologies
 
+## Demo / Screenshots
+
+### Singly Linked List — Console Demo
+
+The application allows users to navigate a 52-card deck,
+inspect the current card, and search for a target card.
+
+![Console Demo](console-demo.png)
+
 Java, custom singly and doubly linked lists, and console input with Scanner.
